@@ -1,0 +1,16 @@
+{
+  "name": "normalizr-typings-test-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "normalizr": "^2.3.0",
+    "throwback": "^1.1.1",
+    "typescript": "^2.1.4"
+  }
+}
